@@ -1,0 +1,16 @@
+mean of a z standardized fxn
+mean of 0 1
+labs 1-5
+what comes out of 2 types of models
+add 2 tables vs concat vs join vs groupby
+why and how do we hv tidy data
+no sql syntax
+diff between many to 1 and 1 to 1 what happens when join these 2
+pandas is library for python, builds on top of numpy arrays
+basic git operations, pull, clone
+ppts
+value_counts()
+.loc
+join
+dataFrame
+types of data (categorical, numerical)
